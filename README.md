@@ -10,4 +10,4 @@
 * _the major technologies_
 * _you used in your project_
 * _here_
-
+* _ANGULAT_
